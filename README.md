@@ -2,6 +2,8 @@
 
 I'm Kohei from Tokyo. Currently working as a Solutions Architect at HPE. I'm a Docker enthusiast and believe in the power of container technologies :)
 
+Cloud Native Ambassador
+
 ![inductor's github stats](https://github-readme-stats.vercel.app/api?username=inductor&show_icons=true)
 
 ### Skills
