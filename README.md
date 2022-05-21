@@ -4,7 +4,8 @@ I'm Kohei from Tokyo.
 
 - Solutions Architect at HPE
 - Cloud Native Ambassador
-- Docker enthusiast and believe in the power of container technologies :)
+- Google Developer Expert (GCP)
+- Container technology enthusiast :)
 
 ![inductor's github stats](https://github-readme-stats.vercel.app/api?username=inductor&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inductor&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
