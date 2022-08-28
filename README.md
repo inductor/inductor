@@ -2,7 +2,7 @@
 
 I'm Kohei from Tokyo.
 
-- Solutions Architect at HPE
+- SWE at Apple
 - Cloud Native Ambassador
 - Google Developer Expert (GCP)
 - Container technology enthusiast :)
