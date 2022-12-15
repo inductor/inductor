@@ -14,7 +14,7 @@ I'm Kohei from Tokyo.
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/inductor" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=undefined&b=undefined&i=undefined&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
-Last Updated on 12/15/2022, 3:36:08 AM UTC
+Last Updated on 12/15/2022, 3:36:10 AM UTC
 <!--END_SECTION:lapras-card-->
 
 ### Skills
