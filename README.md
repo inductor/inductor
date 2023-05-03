@@ -22,5 +22,3 @@ Last Updated on 5/3/2023, 12:19:00 AM
 ![](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat) ![](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat) ![](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat) ![](https://img.shields.io/badge/-Kubernetes-EEE.svg?logo=kubernetes&style=flat) ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat) ![](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat) 
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=inductor alt=inductor/> </p>
-
-<a rel="me" href="https://mstdn.jp/@inductor">Mastodon</a>
