@@ -7,8 +7,8 @@ I'm Kohei from Tokyo.
 - Google Developer Expert (GCP)
 - Container technology enthusiast :)
 
-![inductor's github stats](https://github-readme-stats.vercel.app/api?username=inductor&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inductor&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+![inductor's github stats](https://github-readme-stats.shion.dev/api?username=inductor&show_icons=true)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=inductor&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/inductor" target="_blank" rel="noopener noreferrer"><img alt="inductor's scores on LAPRAS are as follows: Engineering: 4.52 out of 5.0, Business: 3.48 out of 5.0, Influence: 4.16 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.52&b=3.48&i=4.16&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
